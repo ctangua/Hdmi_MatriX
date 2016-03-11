@@ -1,0 +1,32 @@
+﻿Compilación iniciada a las 11/03/2016 07:32:55 a.m..
+     1>Proyecto "C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\HDMI_MatriX\HDMI_MatriX.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\HDMI_MatriX.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Se omitirá el destino "GenerateTargetFrameworkMonikerAttribute" porque todos los archivos de salida están actualizados respecto a los archivos de entrada.
+       ClCompile:
+         Todas las salidas están actualizadas.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HDMI_MatriX.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt HDMI_MatriX.cpp /clr:nostdlib 
+         HDMI_MatriX.cpp
+         Todas las salidas están actualizadas.
+       CoreResGen:
+         No hay ningún recurso obsoleto con respecto a sus archivos de origen. Se omitirá la generación de recursos.
+       ResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\Debug\HDMI_MatriX.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\HDMI_MatriX.Form1.resources /MANIFEST /ManifestFile:"Debug\HDMI_MatriX.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\Debug\HDMI_MatriX.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\HDMI_MatriX.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         HDMI_MatriX.vcxproj -> C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\Debug\HDMI_MatriX.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\Debug\HDMI_MatriX.exe;#1" /manifest Debug\HDMI_MatriX.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\HDMI_MatriX.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\HDMI_MatriX.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\ctangua\Documents\Visual Studio 2010\Projects\Pruebas\HDMI_MatriX\HDMI_MatriX\HDMI_MatriX.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:09.97
